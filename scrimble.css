@@ -81,3 +81,20 @@ html{
 
 
 
+@media (max-width: 480px){
+  
+    .head {
+        font-size: 20px;
+        text-align: center;
+    }
+
+    .box {
+        width: 90%;
+        top: 25%;
+    }
+
+    .scrimble-main h3 {
+        font-size: 16px;
+    }
+
+}
