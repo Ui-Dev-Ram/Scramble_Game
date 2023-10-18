@@ -5,7 +5,7 @@ let randWords = "";
 let newWords = "";
 let play = false;
 
-let sWord = ["ram", "ashok", "dimple", "lendy", "pablo", "popla", "bhilu", "gungi", "mulla"]
+let sWord = ["Car", "Bike", "Sky", "Cloud", "Home", "Table", "office", "metro", "bus"]
 
 
 const createNewWord = () => {
